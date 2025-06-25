@@ -4,7 +4,7 @@ A response profile card me with HTML and CSS only. Card has placeholders for a p
 
 ![Screenshot](https://github.com/OvaisKhanday/Markdowns/blob/main/kalvig/html-css-profile-card-example.png?raw=true)
 
-### How to run
+## How to run
 
 ```{bash}
 git clone https://github.com/OvaisKhanday/html-css-profile-card.git
@@ -13,7 +13,7 @@ git clone https://github.com/OvaisKhanday/html-css-profile-card.git
 
 A new folder `html-css-profile-card` folder will be created. Open the index.html file in the chrome.
 
-### Possible Improvements
+## Possible Improvements
 
 - Possibility of adding transition and animations
 - Adding more elements in the profile card
